@@ -25,7 +25,6 @@ public class Main {
 
         // Задача №3
         short year = 2010;
-        // System.out.println((year % 4));
         if (year % 4 == 0 ) {
             System.out.println(year + " год является високосным");
         } else {
